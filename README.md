@@ -10,4 +10,4 @@ We believe the next generation of WordPress development isn't typed by humans. I
 
 Built and maintained by **[Aminul Islam](mailto:ai.xpeedstudio@gmail.com)** — a WordPress developer on a mission to make AI a first-class citizen in the WordPress ecosystem.
 
-🌐 [wpworker.ai](https://wpworker.ai) &nbsp;·&nbsp; 📦 [WordPress.org](https://wordpress.org/plugins/worker-ai) &nbsp;·&nbsp; 📬 [ai.xpeedstudio@gmail.com](mailto:ai.xpeedstudio@gmail.com)
+🌐 [wpworker.ai](https://wpworker.ai) 
